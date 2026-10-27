@@ -1,19 +1,11 @@
 ## Hi, I'm Juhan 👋
 
-I'm an Economics graduate from UT Austin with a minor in Statistics & Data Science. I'm interested in how data helps us understand tradeoffs and make better business decisions.
+I'm an Economics graduate from UT Austin with a minor in Statistics & Data Science, interested in the intersection of data analysis and business strategy—using data to understand tradeoffs and inform decisions.
 
-I explore these questions through projects using Python, R, and SQL—connecting analysis with a clear question, a comparison, and a conclusion.
+**What I work with:** Python · SQL · R · Excel
 
-### Featured project · RetailOS
+**What I build:** Data analyses, predictive models, and decision-support dashboards that connect a practical question with evidence and a clear conclusion.
 
-**Does a better forecast lead to a better inventory decision?**
+**What I explore:** Forecasting, optimization, sports analytics, and business decision-making.
 
-I used historical retail sales data to compare forecasting models and four inventory ordering policies under a shared purchasing budget.
-
-The main finding: better prediction did not consistently produce better decisions. Point-forecast optimization had a small aggregate cost advantage over a simple ordering rule, while scenario optimization performed worse. These are retrospective simulations under assumed operating costs.
-
-[Explore the project →](https://github.com/younjuhan03/retail-decision-intelligence) · [Read the case study](https://github.com/younjuhan03/retail-decision-intelligence/blob/main/docs/comparison_case_study.pdf)
-
-### What I'm learning
-
-I'm developing my programming and analytical skills while exploring forecasting, optimization, and decision-making under uncertainty.
+Below you'll find projects documenting the questions I ask, the methods I use, and what I learn from the results.
