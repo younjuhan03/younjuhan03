@@ -9,3 +9,5 @@ I'm an Economics graduate from UT Austin with a minor in Statistics & Data Scien
 **What I explore:** Forecasting, optimization, sports analytics, and business decision-making.
 
 Below you'll find projects documenting the questions I ask, the methods I use, and what I learn from the results.
+
+## Connect with me on [LinkedIn](https://www.linkedin.com/in/juhan-youn-3b5356302/)
