@@ -1,13 +1,17 @@
 ## Hi, I'm Juhan 👋
 
-I'm an Economics graduate from UT Austin with a minor in Statistics & Data Science, interested in the intersection of data analysis and business strategy—using data to understand tradeoffs and inform decisions.
+I'm an Economics graduate from UT Austin with a minor in Statistics & Data Science. I am interested in how data, business objectives and operational constraints come together in a decision.
 
-**What I work with:** Python · SQL · R · Excel
+My projects start with a practical choice: how to allocate an inventory budget, when to reserve a complaint for human review, or how much food to produce for a fundraiser. I compare alternatives, examine the tradeoffs and explain what the evidence supports.
 
-**What I build:** Data analyses, predictive models, and decision-support dashboards that connect a practical question with evidence and a clear conclusion.
+| Project | My central question |
+|---|---|
+| [RetailOS](https://github.com/younjuhan03/retail-decision-intelligence) | Does a better forecast lead to a better inventory decision? |
+| [Complaint Review Assistant](https://github.com/younjuhan03/complaint-review-assistant) | How should classification errors be weighed against human review workload? |
+| [AWAKE Fundraiser Planner](https://github.com/younjuhan03/awake-fundraiser-planner) | How much should I produce beyond confirmed pre-orders when costs and demand are uncertain? |
 
-**What I explore:** Forecasting, optimization, sports analytics, and business decision-making.
+I am preparing for graduate study in business analytics to deepen my understanding of forecasting, optimization and decision evaluation. I want to connect analytical methods to choices I can explain, test and improve.
 
-Below you'll find projects documenting the questions I ask, the methods I use, and what I learn from the results.
+**Tools I work with:** Python · SQL · R · Excel
 
-## Connect with me on [LinkedIn](https://www.linkedin.com/in/juhan-youn-3b5356302/)
+[LinkedIn](https://www.linkedin.com/in/juhan-youn-3b5356302/)
