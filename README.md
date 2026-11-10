@@ -6,18 +6,18 @@ I recently organized my analytical work into this public portfolio. I start with
 
 ## My featured projects
 
-| Project | What I did | What I can take forward |
+| Project | What I did | What I learned and want to deepen |
 |---|---|---|
-| [PriceLab — Experimental Pricing & Demand](https://github.com/younjuhan03/price-demand-experiment) | I reanalyzed a randomized bed-net pricing experiment and built a calculator connecting tested prices to acquisition targets. | I show how the preferred tested price changes with the objective: a receipt proxy favors 20 KSh, while a 90% acquisition target favors 10 KSh under my point estimates. I retain the uncertainty in those rankings. |
-| [RetailOS — Inventory Decisions](https://github.com/younjuhan03/retail-decision-intelligence) | I compared four ordering policies under a shared purchasing budget using historical retail sales. | I found a 0.51% modeled cost advantage for point-forecast optimization, alongside lower fill rate and wins in only 8 of 17 periods. I would evaluate a fixed cost-and-service rule on new periods before changing policy. |
-| [MLB Hitter Analysis — Signals for Next Season](https://github.com/younjuhan03/mlb-hitter-decision-analysis) | I compared next-season batting forecasts and tested a screening rule for limited scouting review slots. | I found lower 2026 forecast error with current skill measurements, while my separate screening policy did not improve growth selection. I preserved forecasts and a protocol for evaluation after the 2027 season. |
+| [PriceLab — Experimental Pricing & Demand](https://github.com/younjuhan03/price-demand-experiment) | I reanalyzed a randomized bed-net pricing experiment and built a calculator connecting tested prices to acquisition targets. | I learned how acquisition targets change a price recommendation. My small clinic sample limits confidence in the ranking; I want to deepen my understanding of experimental design and decisions under uncertainty. |
+| [RetailOS — Inventory Decisions](https://github.com/younjuhan03/retail-decision-intelligence) | I compared four ordering policies under a shared purchasing budget using historical retail sales. | I found a 0.51% modeled cost advantage alongside weaker service and inconsistent wins. I want to study how optimization under uncertainty can make those cost-and-service tradeoffs explicit. |
+| [MLB Hitter Analysis — Signals for Next Season](https://github.com/younjuhan03/mlb-hitter-decision-analysis) | I compared next-season batting forecasts and tested a screening rule for limited scouting review slots. | I improved 2026 forecast error with current skill measurements, but my screening policy did not improve growth selection. I want to learn how to connect predictive evidence to better selection decisions. |
 
 ## My supporting projects
 
 | Project | What I explored |
 |---|---|
-| [Complaint Review Assistant](https://github.com/younjuhan03/complaint-review-assistant) | I deferred 77 of 140 classification errors while also sending 68 correct classifications for review. I use that accounting to make the tradeoff between automatic errors and reviewer workload visible. |
-| [AWAKE Fundraiser Planner](https://github.com/younjuhan03/awake-fundraiser-planner) | I translated available fundraiser records into production scenarios and an Excel planner. I calculated the sell-through needed for extra production to cover its cost under stated assumptions. |
+| [Complaint Review Assistant](https://github.com/younjuhan03/complaint-review-assistant) | I deferred 77 of 140 classification errors while also sending 68 correct cases for review. I want to learn how error costs, calibrated scores and reviewer capacity should determine that boundary. |
+| [AWAKE Fundraiser Planner](https://github.com/younjuhan03/awake-fundraiser-planner) | I translated fundraiser records into production scenarios and an Excel planner. I want to build on this work by learning to estimate walk-up demand and plan production under cash and capacity limits. |
 
 I explain my question, contribution, results, limits and next validation step in each README. I link the underlying reports, calculations and setup instructions so my conclusions can be inspected.
 
@@ -30,7 +30,9 @@ I explain my question, contribution, results, limits and next validation step in
 
 ## What I want to learn next
 
-I am interested in analytics and AI consulting, and I am preparing for graduate study in business analytics. My current portfolio centers on statistical learning, experimental inference and optimization. I want to extend what I have learned about evaluating decisions to AI tools: when do they improve outcomes, what human review do they require, and how should I test their value under real constraints?
+These projects taught me to compare models and evaluate the choices built around them. They also showed me where I need a stronger foundation: designing experiments, representing uncertainty and translating business priorities into objectives and constraints.
+
+I want to pursue graduate study in business analytics to develop those skills through more rigorous methods and collaborative projects. As I work toward analytics and AI consulting, I want to apply the same discipline to AI tools—defining the decision they support, the human judgment they require and the evidence needed to justify using them.
 
 **Tools I work with:** Python · SQL · R · Excel
 
